@@ -5,10 +5,10 @@ public class Main {
 
         double metre = 1.87;
         int kg = 98;
-        int bmi =service.calculate(kg , metre);
+        int bmi = service.calculate(kg, metre);
 
         System.out.println(bmi);
     }
 
 
-    }
+}
